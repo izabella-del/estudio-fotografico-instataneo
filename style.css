@@ -1,0 +1,18 @@
+/* Seletor Universal */
+*{
+    margin: 0;
+    pad: 0;
+    box-sizing: border-box;
+    
+}
+
+/* Seletor de TAG */
+body {
+     font-family: Arial, Helvetica, sans-serif;
+     color: rgb(68, 109, 186);
+     line-height: 1.6;
+}
+
+h1 {
+    font-size: 3x;
+}
